@@ -19,7 +19,7 @@ This repository contains my solutions to programming challenges that I solved.
 * 
 
 #### JavaScript
-* 
+* [Calculator](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/calculator/readme.md)
 * 
 
 #### C\# 

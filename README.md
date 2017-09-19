@@ -7,7 +7,7 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### Python
 * [A BattleShip Game](https://github.com/danielramsayer/School_work/blob/master/random-programs/Websites/Portfolio/Battleship/readme.md)
-* 
+* [Profanity Checker](https://github.com/danielramsayer/School_work/blob/master/random-programs/Python/Profanity.md)
 
 #### HTML & CSS
 

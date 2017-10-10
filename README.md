@@ -28,4 +28,4 @@ This repository contains my solutions to programming challenges that I solved.
 #### Hackathons
 * 
 
-[comment]: # (This is a comment right here)
+[comment]: # 

@@ -19,7 +19,7 @@ This repository contains my solutions to programming challenges that I solved.
 * [Simon Game](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/simon/readme.md)
 * [Calculator](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/calculator/readme.md)
 * [TicTacToe](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
-* [Pomodor Clock](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
+* [Pomodor Clock](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/pomodoro_clock/readme.md)
 
 
 [comment]: # (This is a comment right here)

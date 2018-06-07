@@ -14,6 +14,9 @@ This repository contains my solutions to programming challenges that I solved.
 * [Simple Black Jack Game](http://www.codeskulptor.org/#user44_N8yeziEJ8M_0.py)
 * [Ping Pong Game](http://www.codeskulptor.org/#user44_2y2LcRqYqi_0.py)
 
+#### Ruby
+* [LeapYear Check](https://github.com/danielramsayer/School_work/blob/master/random-programs/Ruby/11readme.md)
+
 
 #### JavaScript
 * [Simon Game](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/simon/readme.md)

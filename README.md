@@ -11,8 +11,8 @@ This repository contains my solutions to programming challenges that I solved.
 * [Piglatin Translator](https://github.com/danielramsayer/School_work/blob/master/random-programs/Python/pylatinTranslation.md)
 * [RiceRocks Game](http://www.codeskulptor.org/#user44_Q2vFyY8K61_0.py)
 * [Memory Game](http://www.codeskulptor.org/#user44_ucALDLjTI5_0.py)
-* [Simple Black Jack Game] (http://www.codeskulptor.org/#user44_N8yeziEJ8M_0.py)
-* [Ping Pong Game] (http://www.codeskulptor.org/#user44_2y2LcRqYqi_0.py)
+* [Simple Black Jack Game](http://www.codeskulptor.org/#user44_N8yeziEJ8M_0.py)
+* [Ping Pong Game](http://www.codeskulptor.org/#user44_2y2LcRqYqi_0.py)
 
 
 #### JavaScript

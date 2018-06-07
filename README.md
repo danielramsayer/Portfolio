@@ -8,24 +8,18 @@ This repository contains my solutions to programming challenges that I solved.
 #### Python
 * [A BattleShip Game](https://github.com/danielramsayer/School_work/blob/master/random-programs/Websites/Portfolio/Battleship/readme.md)
 * [Profanity Checker](https://github.com/danielramsayer/School_work/blob/master/random-programs/Python/Profanity.md)
+* [Piglatin Translator](https://github.com/danielramsayer/School_work/blob/master/random-programs/Python/pylatinTranslation.md)
+* [RiceRocks Game](http://www.codeskulptor.org/#user44_Q2vFyY8K61_0.py)
+* [Memory Game](http://www.codeskulptor.org/#user44_ucALDLjTI5_0.py)
+* [Simple Black Jack Game] (http://www.codeskulptor.org/#user44_N8yeziEJ8M_0.py)
+* [Ping Pong Game] (http://www.codeskulptor.org/#user44_2y2LcRqYqi_0.py)
 
-#### HTML & CSS
-
-* 
-* 
-
-#### SQL Database
-* 
-* 
 
 #### JavaScript
 * [Simon Game](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/simon/readme.md)
 * [Calculator](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/calculator/readme.md)
+* [TicTacToe](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
+* [Pomodor Clock](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
 
-#### C\# 
-* 
-
-#### Hackathons
-* 
 
 [comment]: # (This is a comment right here)

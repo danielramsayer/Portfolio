@@ -5,6 +5,13 @@ I am a creative junior developer with an interest in many levels of a codebase, 
 
 This repository contains my solutions to programming challenges that I solved.
 
+#### JavaScript
+* [Simon Game](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/simon/readme.md)
+* [Calculator](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/calculator/readme.md)
+* [TicTacToe](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
+* [Pomodor Clock](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/pomodoro_clock/readme.md)
+* [Wikipedia Article Search](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/IntermediatePrograms/WikipediaSearch/readme.md)
+
 #### Python
 * [A BattleShip Game](https://github.com/danielramsayer/School_work/blob/master/random-programs/Websites/Portfolio/Battleship/readme.md)
 * [Profanity Checker](https://github.com/danielramsayer/School_work/blob/master/random-programs/Python/Profanity.md)
@@ -16,13 +23,6 @@ This repository contains my solutions to programming challenges that I solved.
 
 #### Ruby
 * [LeapYear Check](https://github.com/danielramsayer/School_work/blob/master/random-programs/Ruby/11readme.md)
-
-
-#### JavaScript
-* [Simon Game](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/simon/readme.md)
-* [Calculator](https://github.com/danielramsayer/School_work/blob/master/FreeCodeCamp/AdvancedPrograms/calculator/readme.md)
-* [TicTacToe](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/TicTacToe/readme.md)
-* [Pomodor Clock](https://github.com/danielramsayer/School_work/tree/master/FreeCodeCamp/AdvancedPrograms/pomodoro_clock/readme.md)
 
 
 [comment]: # (This is a comment right here)
